@@ -1,0 +1,19 @@
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+  
+}
+
+button {
+  padding: 10px;
+  background-color: aqua;
+  border-radius: 3px;
+  border: none;
+  margin-bottom: 5px;
+}
+
+input {
+  margin-top: 5px;
+  padding: 10px 20px;
+}

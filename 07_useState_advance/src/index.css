@@ -1,0 +1,23 @@
+h1 {
+font-family: fantasy;
+font-size: xx-large;
+font-weight: 500;
+
+}
+
+h1 span {
+  margin: 0px 5px;
+  padding: 3px 15px;
+  border: none;
+  border-radius: 4px;
+  background-color: chartreuse;
+}
+
+button {
+  margin: 6px 10px;
+  padding: 7px 15px;
+  border: none;
+  border-radius: 4px;
+  background-color: chartreuse;
+  font-family: fantasy;
+}

@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+#noteSection::-webkit-scrollbar {
+    display: none;
+}
